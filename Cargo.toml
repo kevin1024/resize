@@ -1,0 +1,8 @@
+[package]
+name = "resize"
+version = "0.1.0"
+authors = ["Kevin McCarthy <me@kevinmccarthy.org>"]
+
+[dependencies]
+iron = "0.3.0"
+hyper = "0.9.9"
